@@ -1,5 +1,8 @@
 # Project 1 - Browser Based Game
 
+[Project Details Spreadsheet](https://docs.google.com/spreadsheets/d/1jvERTxmhABnE2gqkyFTfRB_hFMhg-J6CrzJW54zlpsg/edit?usp=sharing)
+
+
 ## Notes and guidance
 
 ### Getting started
@@ -10,14 +13,19 @@ Here are some quick tips to get your project started:
 - ***Keep it simple.*** Minimum Viable Product (MVP) functionality that looks great and works well is better than extra functionality added to a game without polish.
 - Theme your game to give it a personal touch.
 - Develop features in a way that allows you to test as you go - try your best to follow the flow of data through your app.
-- Regularly review the project requirements to ensure you're on track to pass the project. A printable version of the project requirements can be found [here](../project-requirements/assets/project-requirements.pdf).
+- Regularly review the project requirements to ensure you're on track to pass the project.
 - If you're unsure how to begin planning, check out the [Planning Your Browser Game](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/planning-your-browser-game.html) resource.
 - If you're unsure how to start coding, check out the [Build a Browser Game Walkthrough](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/build-a-browser-game-walkthrough.html).
 - Add comments to your code where it makes sense to do so. Most code is self-documenting, and you shouldn't add comments explaining the obvious. Ideally, comments should explain the ***why*** of code where it's necessary.
 
 ### Project assistance
 
-Your instructor team will provide guidelines for reaching out for help during project week.
+The best way to get assistance is by submitting an issue ticket here:
+https://github.com/GA-SEB-8/Project-1/issues
+
+Properly communicating your code issues is an extremely important skill.
+
+When you enter the world of work you will need to use github issues or other issue tracking tools.
 
 ### Project Requirements
 
